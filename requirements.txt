@@ -1,8 +1,5 @@
-Flask-RESTful==0.3.7
-python-Levenshtein == 0.12.0
+gunicorn==19.9.0
+Werkzeug==0.15.1
 Flask==1.1.2
-Flask-SQLAlchemy==2.4.0
-flask-marshmallow == 0.10.1
-traceback2 == 1.4.0
 requests== 2.25.1
 firebase_admin == 4.5.3
